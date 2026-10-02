@@ -19,8 +19,6 @@ O próprio sistema exibe um texto informativo sobre o parque, incluindo:
 - referência ao ICMBio na administração
 - endereço e telefone apresentados no menu de informações
 
-> Fonte: método `informacaoSobreParque()` no código-fonte.
-
 ## Funcionalidades identificadas no código
 
 ### Área de usuário
