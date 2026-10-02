@@ -58,6 +58,7 @@ O próprio sistema exibe um texto informativo sobre o parque, incluindo:
 │   ├── Clientes.java
 │   ├── Projeto_Guia_Turistico.java
 │   └── Reserva.java
+├── LICENSE
 └── README.md
 ```
 
@@ -93,18 +94,11 @@ java -cp out Projeto_Guia_Turistico
 - Persistência local em arquivos texto, sem banco de dados.
 - Senha de administrador fixa no código (`Administrador.java`).
 
-## Contribuição
-
-Contribuições são bem-vindas via pull request, preferencialmente com:
-- descrição clara da mudança
-- passos para reproduzir/validar
-- manutenção de compatibilidade com execução em console
-
 ## Licença
 
-Não foi encontrado arquivo de licença no repositório até esta revisão.
+Este projeto está distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para ver o texto completo da licença.
 
-Recomendação: o(a) mantenedor(a) deve definir explicitamente uma licença (por exemplo, MIT, Apache-2.0, GPL-3.0 etc.) conforme os direitos autorais e objetivo do projeto.
+A licença MIT permite uso, cópia, modificação, distribuição e sublicenciamento do projeto, desde que o aviso de copyright e o texto da licença sejam mantidos.
 
 ## Status do projeto
 
